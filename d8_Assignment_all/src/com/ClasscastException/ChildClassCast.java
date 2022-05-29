@@ -22,3 +22,18 @@ public class ChildClassCast extends ClassCastException {
 	}
 
 }
+
+
+class ClassCastException {
+
+	
+	int num;
+	
+	public void name() {
+		
+		System.out.println("My name is Anni.");
+		System.out.println("My age is 25.");
+	}
+	
+
+}
