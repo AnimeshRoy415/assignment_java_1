@@ -1,10 +1,10 @@
 package com.q4;
 
-public class Instructor extends Parson {
+public class Instructor extends Person {
 
-	int studentId;
-	String courseEnrilled;
-	int courseFee;
+	int instructorId=456; 
+
+	int salary= 45612;
 	
 	
 }
